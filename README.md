@@ -13,7 +13,7 @@
 - 💞️ I’m looking to collaborate on all types of projects, open for voluntary participation in projects and tasks
 - 📫 How to reach me:
 <div id="badges">
-  <a href="https://www.linkedin.com/in/boris-stojchevski/">
+  <a target="_blank" href="https://www.linkedin.com/in/boris-stojchevski/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/boris.stojcevski.5/">
