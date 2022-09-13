@@ -41,6 +41,9 @@ Skills:
   <a href="mailto:stojcevskib.02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.instagram.com/stojcevski.b/">
+    <img src="https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+  </a>
 </div>
 
 
