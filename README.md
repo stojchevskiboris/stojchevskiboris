@@ -17,13 +17,13 @@ I have:
   - Experience with .NET MVC web application 
   
 Skills: 
-  - HTML, CSS and JavaScript <img src="content/html.png">
-  - Bootstrap <img src="content/bootstrap.png">
-  - .NET & MVC (C#) <img src="content/dotnetMVC.png"> <img src="content/cSharp.png">
-  - Java & DataStructures in Java <img src="content/java.png"> <img src="content/dataStructures.png">
-  - Git & Azure (Version Control) <img src="content/git.png"> <img src="content/azure.png">
-  - SQL Databases <img src="content/sql.png">
-  - Adobe Illustrator & Photoshop <img src="content/ai.png"> <img src="content/ps.png">
+  - HTML, CSS and JavaScript <img src="content/html.png" width="40px">
+  - Bootstrap <img src="content/bootstrap.png" width="40px">
+  - .NET & MVC (C#) <img src="content/dotnetMVC.png" width="40px"> <img src="content/cSharp.png" width="40px">
+  - Java & DataStructures in Java <img src="content/java.png" width="22px"> <img src="content/dataStructures.png" width="40px">
+  - Git & Azure (Version Control) <img src="content/git.png" width="40px"> <img src="content/azure.png" width="40px">
+  - SQL Databases <img src="content/sql.png" width="40px">
+  - Adobe Illustrator & Photoshop <img src="content/ai.png" width="40px"> <img src="content/ps.png" width="40px">
   
 📄  <a href="https://github.com/stojchevskiboris/stojchevskiboris/blob/main/CV.pdf">Check out my CV</a>
 
