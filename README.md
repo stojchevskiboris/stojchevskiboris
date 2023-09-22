@@ -1,1 +1,104 @@
+# Portfolio
 
+
+Welcome to my GitHub repository! I am a passionate software developer student who loves to code and build software applications. This repository serves as a portfolio of my projects and a showcase of my skills and interests in the world of software development.
+
+## About Me
+
+- **Name:** Boris Stojchevski
+- **Location:** Resen, Macedonia
+- **Email:** stojcevskib.02@gmail.com
+- **LinkedIn:** <a href="https://www.linkedin.com/in/boris-stojchevski/">Boris Stojchevski - LinkedIn</a>
+- **Portfolio Website:** <a href="https://stojchevskib.onrender.com/" target="”_blank”">Link</a>
+
+## Skills
+
+Here are some of the skills I've acquired and honed during my journey as a student:
+
+- **Programming Languages:**
+  - Java
+  - Python
+  - C#
+  - JavaScript
+  - C, C++
+
+- **Web Development:**
+  - HTML, CSS, JavaScript, Bootstrap
+  - Backend Development (Spring, Django, ASP.NET)
+  - Frontend Frameworks (React, Vue.js)
+  - RESTful API Design
+
+- **Databases:**
+  - PostgreSQL
+
+- **Version Control:**
+  - Git and GitHub
+
+- **Tools and Technologies:**
+  - JetBrains IDEs (IntelliJ, WebStorm, PyCharm)
+  - Visual Studio
+
+## Projects
+Here is some of my work
+
+### Project 1: Music E-shop
+
+- **Description:** Django based application, taking orders from customers based on their browser session (doesn`t need signing up), and editing store products (instruments) from admin by logging into superuser priviledges. Each made order is persisted with customer details, the prouducts he bought, a receipt, and session.
+- **GitHub Repository:** [Link to GitHub Repository](https://github.com/stojchevskiboris/Music-Eshop)
+- **Demo:** [Link to Live Demo](https://musicshop.pythonanywhere.com/)
+- **Technologies:** List the technologies used in the project.
+  - Django (Python)
+  - Bootstrap
+  - SQLite
+
+![Project 1 Screenshot](https://stojchevskib.onrender.com/content/projects/music1.png)
+
+### Project 2: Apartment Booking
+
+- **Description:** A .NET Desktop Web-Application for clients about making online reservations for apartments, and at the same time the owner views and manages all the submitted reservations in real time if he has the admin privilege.
+- **GitHub Repository:** [Link to GitHub Repository](https://github.com/stojchevskiboris/AvtokampOteshevo_WebApp)
+- **Demo:** [Link to Live Demo](https://avtokampotesevo.bsite.net/)
+- **Technologies:**
+  - ASP.NET (C#)
+  - Bootstrap
+  - MySQL
+
+![Project 2 Screenshot](https://stojchevskib.onrender.com/content/projects/avtokamp2.png)
+![Project 2 Screenshot](https://stojchevskib.onrender.com/content/projects/avtokamp3.png)
+
+### Project 3: Weather Web Application
+
+- **Description:**   A client side Weather Application. Shows real-time weather forecast and air quality
+- **GitHub Repository:** [Link to GitHub Repository](https://github.com/stojchevskiboris/WeatherApp)
+- **Demo:** [Link to Live Demo](https://weather-webapp-nqwi.onrender.com/)
+- **Technologies:**
+  - HTML, CSS, JS
+  - [weatherapi.com](https://www.weatherapi.com/) for the forecast API Calls
+  - [worldnewsapi.com](https://www.worldnewsapi.com/) for the news on the site
+
+![Project 3 Screenshot](https://stojchevskib.onrender.com/content/projects/weather3.PNG)
+
+### Project 4: VueTube - Alternative YouTube Frontend
+
+- **Description:**   The Vue YouTube Alternative Frontend is a web application that provides users with an alternative interface for accessing and interacting with YouTube content. It utilizes the YouTube Data API to fetch and display videos, playlists, and user data. This project aims to create a user-friendly and feature-rich Vue.js application that seamlessly integrates with YouTube's extensive library of content.
+- **GitHub Repository:** [Link to GitHub Repository](https://github.com/stojchevskiboris/vuetube)
+- **Demo:** [Link to Live Demo](https://vuetube-t7xj.onrender.com/)
+- **Technologies:**
+  - HTML, CSS, JS
+  - Bootstrap
+  - [YouTube Data API v3](https://developers.google.com/youtube/v3)
+  - [PouchDB](https://pouchdb.com/)
+
+![Project 3 Screenshot](https://raw.githubusercontent.com/stojchevskiboris/vuetube/master/src/public/scr2.png)
+
+
+## Contact Me
+
+I'm always open to new opportunities and collaborations. If you'd like to get in touch, feel free to reach out through email or connect with me on LinkedIn.
+
+- **Email:** stojcevskib.02@gmail.com
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/boris-stojchevski/)
+
+Thank you for visiting my GitHub repository. I look forward to connecting with fellow developers and enthusiasts in the tech community!
+
+---
