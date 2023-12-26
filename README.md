@@ -1,7 +1,7 @@
 # Portfolio
 
 
-Welcome to my GitHub repository! I am a passionate software developer student who loves to code and build software applications. This repository serves as a portfolio of my projects and a showcase of my skills and interests in the world of software development.
+Welcome to my GitHub repository! I am a passionate software developer who loves to code and build software applications. This repository serves as a portfolio of my projects and a showcase of my skills and interests in the world of software development.
 
 ## About Me
 
@@ -16,27 +16,30 @@ Welcome to my GitHub repository! I am a passionate software developer student wh
 Here are some of the skills I've acquired and honed during my journey as a student:
 
 - **Programming Languages:**
+  - C#
   - Java
   - Python
-  - C#
   - JavaScript
   - C, C++
 
 - **Web Development:**
-  - HTML, CSS, JavaScript, Bootstrap
-  - Backend Development (Spring, Django, ASP.NET)
-  - Frontend Frameworks (React, Vue.js)
+  - HTML, CSS, JavaScript, Bootstrap 5
+  - Backend Development (Spring, Django, .NET)
+  - Frontend Frameworks (Angular, React, Vue.js)
   - RESTful API Design
 
 - **Databases:**
   - PostgreSQL
+  - MySQL
+  - NHibernate
 
 - **Version Control:**
-  - Git and GitHub
+  - Git
+  - SourceTree
 
 - **Tools and Technologies:**
   - JetBrains IDEs (IntelliJ, WebStorm, PyCharm)
-  - Visual Studio
+  - Visual Studio, VS Code
 
 ## Projects
 Here is some of my work
