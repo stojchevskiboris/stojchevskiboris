@@ -23,15 +23,17 @@ Here are some of the skills I've acquired and honed during my journey as a stude
   - C, C++
 
 - **Web Development:**
-  - HTML, CSS, JavaScript, Bootstrap 5
+  - HTML, CSS, JavaScript, Bootstrap 5, Angular Material
   - Backend Development (Spring, Django, .NET)
   - Frontend Frameworks (Angular, React, Vue.js)
   - RESTful API Design
 
 - **Databases:**
-  - PostgreSQL
+  - MsSQL
   - MySQL
-  - NHibernate
+  - PostgreSQL
+  - MongoDb
+  - MariaDb
 
 - **Version Control:**
   - Git
@@ -40,6 +42,9 @@ Here are some of the skills I've acquired and honed during my journey as a stude
 - **Tools and Technologies:**
   - JetBrains IDEs (IntelliJ, WebStorm, PyCharm)
   - Visual Studio, VS Code
+  - SQL Server Management Studio
+  - PostMan
+  - WinLess
 
 ## Projects
 Here is some of my work
