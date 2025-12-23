@@ -53,7 +53,7 @@ Here is some of my work
 
 - **Description:** Developed a modern, real-time chat application focused on private and group messaging, media sharing, and user interaction management. The project was built with a scalable, modular architecture using Angular 18, .NET Core 8, and SignalR for instant communication. It includes support for user authentication, contact requests, message threading (replies), and media uploads via Google Firestore Storage. The backend uses Azure-hosted SQL for structured data and applies clean separation of concerns for maintainability and performance.
 - **GitHub Repository:** [Link to GitHub Repository](https://github.com/stojchevskiboris/ChatsApp)
-- **Demo:** [Link to Live Demo](https://chatsmk.azurewebsites.net/)
+- **Demo:** [Link to Live Demo](https://chats.runasp.net/)
 - **Technologies:** List the technologies used in the project.
   - .Net Core 8
   - Angular 18
